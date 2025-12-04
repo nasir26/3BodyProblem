@@ -1,0 +1,62 @@
+================================================================================
+SIMULATION COMPARISON REPORT
+================================================================================
+
+
+================================================================================
+SYSTEM: 3ELECTRON
+================================================================================
+
+SPEED COMPARISON:
+  Classical computation time: 1.058717 s
+  Quantum computation time:  2.249213 s
+  Speedup: 0.47x
+  Faster method: CLASSICAL
+
+CLASSICAL ENERGY CONSERVATION:
+  Mean energy: 2.491274e-17 J
+  Energy variation: 116.5335%
+  Energy conserved: No
+
+QUANTUM ENERGY STABILITY:
+  Mean energy: 1.863837e-17 J
+  Energy variation: 0.0002%
+  Energy stable: Yes
+
+RECOMMENDATION:
+  Quantum is recommended for electron systems due to quantum effects.
+
+
+================================================================================
+SYSTEM: ELECTRON_PROTON_NEUTRON
+================================================================================
+
+SPEED COMPARISON:
+  Classical computation time: 0.009024 s
+  Quantum computation time:  1.858235 s
+  Speedup: 0.00x
+  Faster method: CLASSICAL
+
+CLASSICAL ENERGY CONSERVATION:
+  Mean energy: 1.390653e-18 J
+  Energy variation: 75.2046%
+  Energy conserved: No
+
+QUANTUM ENERGY STABILITY:
+  Mean energy: -7.159328e-18 J
+  Energy variation: 0.0000%
+  Energy stable: Yes
+
+RECOMMENDATION:
+  Quantum is recommended for accurate atomic-scale simulations.
+
+================================================================================
+SUMMARY
+================================================================================
+
+Key Findings:
+1. Classical mechanics is typically faster for simple systems
+2. Quantum mechanics is more accurate for atomic-scale systems
+3. Choice depends on required accuracy vs computational cost
+4. For electrons, quantum effects are significant and should be included
+5. For heavier particles, classical may be acceptable approximation
