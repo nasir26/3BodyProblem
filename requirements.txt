@@ -1,0 +1,12 @@
+# Core scientific computing
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Performance measurement
+time  # built-in, but listed for clarity
+
+# Optional: for enhanced quantum simulations
+# qutip>=4.7.0  # Uncomment for more advanced quantum mechanics
