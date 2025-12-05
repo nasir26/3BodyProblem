@@ -1,0 +1,71 @@
+\contentsline {section}{\numberline {1}Introduction}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Units and Conventions}{4}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Vector Spaces and Hilbert Space Structure}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Abstract Vector Spaces}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Inner Product Spaces}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Hilbert Spaces in Quantum Mechanics}{5}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Position Space Representation}{5}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Momentum Space Representation}{6}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.4}Operators on Hilbert Spaces}{6}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Hermitian (Self-Adjoint) Operators}{6}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Fundamental Operators}{6}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}Tensor Product Structure for Multi-Particle Systems}{7}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Special Functions in Quantum Mechanics}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Spherical Harmonics}{7}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Associated Legendre Polynomials}{8}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}Generalized Laguerre Polynomials}{8}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Hermite Polynomials}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Bessel Functions}{9}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Spherical Bessel Functions}{9}{subsubsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.5}Hypergeometric Functions}{10}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Residue Theorems and Complex Analysis}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Contour Integration Fundamentals}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Residue Theorem}{10}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Application: Free-Particle Propagator}{11}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Application: Scattering Amplitude}{12}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Dispersion Relations}{12}{subsection.4.5}%
+\contentsline {section}{\numberline {5}The Schrödinger Equation in 3D}{12}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Time-Independent Schrödinger Equation}{12}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Separation of Variables}{12}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Radial Equation}{13}{subsubsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.3}Hydrogen Atom Solution}{13}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Time-Dependent Schrödinger Equation}{13}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Relativistic Extension: From Schrödinger to Dirac}{14}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Relativistic Energy-Momentum Relation}{14}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Klein-Gordon Equation}{14}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Problems with Klein-Gordon}{14}{subsubsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.3}The Dirac Equation}{14}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Covariant Form of the Dirac Equation}{15}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Solutions of the Free Dirac Equation}{15}{subsection.6.5}%
+\contentsline {subsubsection}{\numberline {6.5.1}Explicit Spinor Solutions}{15}{subsubsection.6.5.1}%
+\contentsline {subsection}{\numberline {6.6}Physical Interpretation}{16}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Dirac Equation in External Electromagnetic Field}{16}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}Non-Relativistic Limit: Pauli Equation}{16}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}Relativistic Hydrogen Atom}{16}{subsection.6.9}%
+\contentsline {section}{\numberline {7}Classical vs Quantum Simulation: Mathematical Comparison}{17}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Classical Approach}{17}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.1}Equations of Motion}{17}{subsubsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.2}Velocity Verlet Integration}{17}{subsubsection.7.1.2}%
+\contentsline {subsubsection}{\numberline {7.1.3}Bohr Model}{17}{subsubsection.7.1.3}%
+\contentsline {subsection}{\numberline {7.2}Quantum Approach}{18}{subsection.7.2}%
+\contentsline {subsubsection}{\numberline {7.2.1}Variational Principle}{18}{subsubsection.7.2.1}%
+\contentsline {subsubsection}{\numberline {7.2.2}Hartree-Fock for Multi-Electron Systems}{18}{subsubsection.7.2.2}%
+\contentsline {subsection}{\numberline {7.3}Comparison of Methods}{19}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Electron-Proton-Neutron System Analysis}{19}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Three-Electron System (Lithium)}{19}{subsection.7.5}%
+\contentsline {subsection}{\numberline {7.6}Key Quantum Effects Missing in Classical Simulation}{20}{subsection.7.6}%
+\contentsline {section}{\numberline {8}Numerical Methods for Quantum Simulation}{20}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Shooting Method for Radial Equations}{20}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Variational Monte Carlo}{21}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Basis Set Expansion}{21}{subsection.8.3}%
+\contentsline {section}{\numberline {9}Applications to Specific Systems}{21}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Electron-Proton-Neutron (e-p-n) System}{21}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Three-Electron Atom (Lithium)}{22}{subsection.9.2}%
+\contentsline {section}{\numberline {10}Conclusion}{22}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Key Findings}{22}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Recommendations}{23}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Future Directions}{23}{subsection.10.3}%
+\contentsline {section}{\numberline {A}Mathematical Appendices}{23}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Gamma Matrix Identities}{23}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Useful Integrals}{24}{subsection.A.2}%
+\contentsline {subsection}{\numberline {A.3}Physical Constants}{24}{subsection.A.3}%
